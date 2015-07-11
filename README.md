@@ -1,1 +1,1 @@
-# MTA-DayZ
+# MTA:DayZ LDM Server Test
